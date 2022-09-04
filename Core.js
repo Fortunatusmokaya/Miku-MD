@@ -1479,13 +1479,7 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah!
 
 *GROUP 1*
-https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS
-
-*GROUP 2*
-https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5
-
-*GROUP 3*
-https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd`)
+https://chat.whatsapp.com/JmQRkwoK6Zq8xwuWkb8FtO`)
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
@@ -1499,12 +1493,12 @@ break
 
 case 'support': case 'supportgc':
     
-    reply(`*My developer's group:* http://gg.gg/MikuSupport`)
+    reply(`*My developer's group:* https://chat.whatsapp.com/JmQRkwoK6Zq8xwuWkb8FtO`)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`*My Source Code:* https://github.com/FantoX001/Miku-MD`)
+    reply(`*My Source Code:* https://github.com/leoooxx/Miku-MD`)
     break
 
 case 'nsfwmenu':
@@ -3339,7 +3333,7 @@ case 'ytdl2': case 'yt2': case 'youtube2':{
 if (!args[0]) return reply(mess.nolink)
 try {
 hx.youtube(args[0]).then(async(res) => {
-textyt = `「 _Miku Youtube Downloader_ 」
+textyt = `「 _𝕃𝔼𝕆-𝔹𝕆𝕋 𝟙.𝟘 Youtube Downloader_ 」
 Title : ${res.title}
 Size : ${res.size}
 Quality : ${res.quality}
@@ -3377,7 +3371,7 @@ case 'music': case 'play': case 'song': case 'ytplay': {
  ]
  let buttonMessage = {
  image: { url: anu.thumbnail },
- caption: `「  _Miku Youtube Player_  」
+ caption: `「  _𝕃𝔼𝕆-𝔹𝕆𝕋 𝟙.𝟘 Youtube Player_  」
 
 *Title :* ${anu.title}
 *Duration :* ${anu.timestamp}
@@ -4814,216 +4808,216 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
   
    
   *━━━〈  🎆 Core 🎆  〉━━━* 
- *╠*Miku
- *╠*Stalk 
- *╠*Profile 
- *╠*Help 
- *╠*Delete 
- *╠*Deleteall 
- *╠*Listgc 
- *╠*Listpc 
- *╠*Welcome 
- *╠*Support 
- *╠*Repo 
- *╠*Script  
+ *╠* Miku
+ *╠* Stalk 
+ *╠* Profile 
+ *╠* Help 
+ *╠* Delete 
+ *╠* Deleteall 
+ *╠* Listgc 
+ *╠* Listpc 
+ *╠* Welcome 
+ *╠* Support 
+ *╠* Repo 
+ *╠* Script  
    
   *━━━〈  🎀 Owner 🎀  〉━━━* 
   
- *╠*Self 
- *╠*Public 
- *╠*Ban  
- *╠*Bangroup 
- *╠*Bye 
- *╠*Join 
- *╠*Bye 
- *╠*Block 
- *╠*Unblock 
- *╠*Broadcast  
+ *╠* Self 
+ *╠* Public 
+ *╠* Ban  
+ *╠* Bangroup 
+ *╠* Bye 
+ *╠* Join 
+ *╠* Bye 
+ *╠* Block 
+ *╠* Unblock 
+ *╠* Broadcast  
   
   *━━━〈  ⭕ Group ⭕  〉━━━* 
    
- *╠*Promote 
- *╠*Demote 
- *╠*Revoke 
- *╠*Remove 
- *╠*Tagall 
- *╠*Hidetag 
- *╠*Groupsetting 
- *╠*Grouplink 
- *╠*Setgcpp 
- *╠*Setname 
- *╠*Setdesc  
- *╠*Group 
- *╠*NSFW 
+ *╠* Promote 
+ *╠* Demote 
+ *╠* Revoke 
+ *╠* Remove 
+ *╠* Tagall 
+ *╠* Hidetag 
+ *╠* Groupsetting 
+ *╠* Grouplink 
+ *╠* Setgcpp 
+ *╠* Setname 
+ *╠* Setdesc  
+ *╠* Group 
+ *╠* NSFW 
   
   *━━━〈  ➰ Anti Link ➰  〉━━━* 
- *╠*Antilinkgc  
- *╠*Antilinktg 
- *╠*Antilinktt 
- *╠Antilinkytch 
- *╠*Antilinkytvid 
- *╠*Antilinkig 
- *╠*Antilinkfb 
- *╠*Antilinktwit 
- *╠*Antilinkall 
- *╠*Antiwame 
+ *╠* Antilinkgc  
+ *╠* Antilinktg 
+ *╠* Antilinktt 
+ *╠* Antilinkytch 
+ *╠* Antilinkytvid 
+ *╠* Antilinkig 
+ *╠* Antilinkfb 
+ *╠* Antilinktwit 
+ *╠* Antilinkall 
+ *╠* Antiwame 
   
   *━━━〈  🔍 Search 🔍  〉━━━* 
   
- *╠*Play 
- *╠*Song 
- *╠*Yts 
- *╠*Lyrics 
- *╠*Google 
- *╠*Gimage 
- *╠*Pinterest 
- *╠*Image 
- *╠*Movie 
- *╠*Wallpaper 
- *╠*Searchgc 
- *╠*Happymod 
- *╠*Wikimedia 
- *╠*Ringtone 
- *╠*Anime 
- *╠*Animestory 
- *╠*Manga 
- *╠*Ringtone   
+ *╠* Play 
+ *╠* Song 
+ *╠* Yts 
+ *╠* Lyrics 
+ *╠* Google 
+ *╠* Gimage 
+ *╠* Pinterest 
+ *╠* Image 
+ *╠* Movie 
+ *╠* Wallpaper 
+ *╠* Searchgc 
+ *╠* Happymod 
+ *╠* Wikimedia 
+ *╠* Ringtone 
+ *╠* Anime 
+ *╠* Animestory 
+ *╠* Manga 
+ *╠* Ringtone   
   
   *━━━〈  🔰 Convert 🔰  〉━━━* 
   
- *╠*Sticker 
- *╠*Toimg 
- *╠*Tovideo 
- *╠*Togif 
- *╠*Steal 
- *╠*Stickermeme 
- *╠*Emojimix 
- *╠*Tourl 
- *╠*Tomp3 
- *╠*Toaudio 
+ *╠* Sticker 
+ *╠* Toimg 
+ *╠* Tovideo 
+ *╠* Togif 
+ *╠* Steal 
+ *╠* Stickermeme 
+ *╠* Emojimix 
+ *╠* Tourl 
+ *╠* Tomp3 
+ *╠* Toaudio 
   
   *━━━〈  🔉 Audio 🔉  〉━━━* 
   
- *╠*Bass 
- *╠*Tempo 
- *╠*Blown 
- *╠*Deep 
- *╠*Earrape 
- *╠*Fast 
- *╠*Fat 
- *╠*Nightcore 
- *╠*Reverse 
- *╠*Robot 
- *╠*Slow 
- *╠*Squirrel 
+ *╠* Bass 
+ *╠* Tempo 
+ *╠* Blown 
+ *╠* Deep 
+ *╠* Earrape 
+ *╠* Fast 
+ *╠* Fat 
+ *╠* Nightcore 
+ *╠* Reverse 
+ *╠* Robot 
+ *╠* Slow 
+ *╠* Squirrel 
   
   *━━━〈  📍 Reactions 📍  〉━━━* 
   
- *╠*Bonk 
- *╠*Cry 
- *╠*Bully 
- *╠*Cuddle 
- *╠*Hug 
- *╠*kiss 
- *╠*kick 
- *╠*Pat 
- *╠*Smug 
- *╠*Yeet 
- *╠*Blush 
- *╠*Smile 
- *╠*Wave 
- *╠*Highfive 
- *╠*Handhold 
- *╠*Nom 
- *╠*Glomp 
- *╠*Bite 
- *╠*Slap 
- *╠*Kill 
- *╠*Happy 
- *╠*Wink 
- *╠*Poke 
- *╠*Dance 
- *╠*Cringe 
+ *╠* Bonk 
+ *╠* Cry 
+ *╠* Bully 
+ *╠* Cuddle 
+ *╠* Hug 
+ *╠* kiss 
+ *╠* kick 
+ *╠* Pat 
+ *╠* Smug 
+ *╠* Yeet 
+ *╠* Blush 
+ *╠* Smile 
+ *╠* Wave 
+ *╠* Highfive 
+ *╠* Handhold 
+ *╠* Nom 
+ *╠* Glomp 
+ *╠* Bite 
+ *╠* Slap 
+ *╠* Kill 
+ *╠* Happy 
+ *╠* Wink 
+ *╠* Poke 
+ *╠* Dance 
+ *╠* Cringe 
   
   *━━━〈  📲 Downloader 📲  〉━━━* 
   
- *╠*Play 
- *╠*Ytmp3 
- *╠*Ytmp4 
- *╠*Ytvideo 
- *╠*Mediafire 
- *╠*Instagram 
- *╠*Igtv 
- *╠*Facebook 
- *╠*Fbmp3 
- *╠*Twitter 
- *╠*Twittermp3 
- *╠*Tiktok 
- *╠*Tiktokaudio 
- *╠*Tiktoknowm 
- *╠*Mediafire   
+ *╠* Play 
+ *╠* Ytmp3 
+ *╠* Ytmp4 
+ *╠* Ytvideo 
+ *╠* Mediafire 
+ *╠* Instagram 
+ *╠* Igtv 
+ *╠* Facebook 
+ *╠* Fbmp3 
+ *╠* Twitter 
+ *╠* Twittermp3 
+ *╠* Tiktok 
+ *╠* Tiktokaudio 
+ *╠* Tiktoknowm 
+ *╠* Mediafire   
   
   *━━━〈  🈴 Weeb 🈴  〉━━━* 
   
- *╠*Crosplay 
- *╠*Waifu 
- *╠*Loli 
- *╠*Neko 
- *╠*ppcouple 
- *╠*Feed 
- *╠*Foxgirl 
- *╠*Meow 
- *╠*Tickle 
- *╠*Wallpaper 
- *╠*Coffee 
- *╠*Animenom 
- *╠*Waifu3 
- *╠*Neko2 
- *╠*Migumin 
- *╠*Awoo 
- *╠*Animewallpaper2 
- *╠*Anime 
- *╠*Manga 
+ *╠* Crosplay 
+ *╠* Waifu 
+ *╠* Loli 
+ *╠* Neko 
+ *╠* ppcouple 
+ *╠* Feed 
+ *╠* Foxgirl 
+ *╠* Meow 
+ *╠* Tickle 
+ *╠* Wallpaper 
+ *╠* Coffee 
+ *╠* Animenom 
+ *╠* Waifu3 
+ *╠* Neko2 
+ *╠* Migumin 
+ *╠* Awoo 
+ *╠* Animewallpaper2 
+ *╠* Anime 
+ *╠* Manga 
   
   *━━━〈  🗂️ Informative 🗂️  〉━━━* 
   
- *╠*Animequote 
- *╠*Quote 
- *╠*Covid 
- *╠*Earthquake 
- *╠*Wiki 
+ *╠* Animequote 
+ *╠* Quote 
+ *╠* Covid 
+ *╠* Earthquake 
+ *╠* Wiki 
   
   *━━━〈  🎗 Others 🎗  〉━━━* 
   
- *╠*Stickermeme 
- *╠*Quotes 
- *╠*Darkjoke  
+ *╠* Stickermeme 
+ *╠* Quotes 
+ *╠* Darkjoke  
   
   *━━━〈  🎉 Fun 🎉  〉━━━* 
   
- *╠*Reaction 
- *╠*Truth 
- *╠*Dare 
- *╠*Couple 
- *╠*Soulmate 
- *╠*Handsomecheck 
- *╠*Beautifulcheck 
- *╠*Awesomecheck 
- *╠*Greatcheck 
- *╠*Gaycheck 
- *╠*Cutecheck 
- *╠*Lesbiancheck 
- *╠*Hornycheck  
- *╠*Prettycheck 
- *╠*Lovelycheck 
- *╠*Uglycheck 
- *╠*Charactercheck 
+ *╠* Reaction 
+ *╠* Truth 
+ *╠* Dare 
+ *╠* Couple 
+ *╠* Soulmate 
+ *╠* Handsomecheck 
+ *╠* Beautifulcheck 
+ *╠* Awesomecheck 
+ *╠* Greatcheck 
+ *╠* Gaycheck 
+ *╠* Cutecheck 
+ *╠* Lesbiancheck 
+ *╠* Hornycheck  
+ *╠* Prettycheck 
+ *╠* Lovelycheck 
+ *╠* Uglycheck 
+ *╠* Charactercheck 
   
   *━━━〈  🪁 Essentials 🪁  〉━━━* 
   
- *╠*Translate 
- *╠*Fliptext 
- *╠*Toletter 
+ *╠* Translate 
+ *╠* Fliptext 
+ *╠* Toletter 
   
   *━━━〈  💥 NSFW 💥  〉━━━* 
   
@@ -5034,7 +5028,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
   
   
   
-  『  *${global.BotName}*  』 
+  『  *${global.BotName}*  』 
   Powered by: *𝕷𝕰O* 
   
   🔰 To use any of these commands type  
