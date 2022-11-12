@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2348078924441']
-global.OwnerNumber = ['2348078924441']
+global.Owner = ['2348106542427']
+global.OwnerNumber = ['2348106542427']
 global.ownertag = ['2348078924441']
-global.BotName = "LEO's-BOT 1.0"
-global.packname = "🦄LEO-BOT 1.0"
-global.author = "By: LEO-BOT 1.0🦄"
-global.OwnerName = "🧸*LEO*🧸"
+global.BotName = "Love-BOT 1.0"
+global.packname = "Love-BOT 1.0"
+global.author = "By: Jesse"
+global.OwnerName = "Love "
 global.BotSourceCode = "https://github.com/leoooxx/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJb0KrWt"
 global.sessionName = "session"
 
 // Prefix //
